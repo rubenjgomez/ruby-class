@@ -8,8 +8,7 @@ int main(int argc, char *argv[])
 	printf("My name is %s\n", name);
 	printf("You can call me %s\n", full_name);
 	
-int x;
-	for ( x = 0; x < 5; x++ ){
+	for ( int x = 0; x < sizeof(name)/sizeof(char)-1; x++ ){
 		printf("%c\n", name[x]);
 	}
 	return 0;
