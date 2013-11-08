@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 	while(i<argc)
 	
 	{
-		printf("arg %d: %s\n", i, argv[i]);
+		printf("argv %d: %s\n", i, argv[i]);
 		i++;
 	}	
 

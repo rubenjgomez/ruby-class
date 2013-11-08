@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char *argv[])
 {
-	int areas[] = {10,2,13,14,20};
+	int areas[] = {10,2,13,14,25};
 	char name[] = "Nate";
 	char full_name[] = {'N', 'a', 't', 'e', ' ', 'D', 'o', 'g', 'g', '\0'};
 	
