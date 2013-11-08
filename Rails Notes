@@ -1,0 +1,73 @@
+Rails
+rails new chatapi
+
+app  put majority
+bin  binary code here
+config  configuration, ex. yaml
+db  schema irb, 
+log  
+lib   additional libraries
+public 
+test
+vendor  external libraries
+rakefile
+gemfile
+lockfile
+
+
+
+
+
+index, 
+show
+create
+update
+destroy/delete
+
+
+rails generate scaffold users name:string
+rake db:migrate
+
+controller
+
+
+data stores
+mysql
+
+
+models
+representation of user
+user info
+active record models
+
+
+class User < ActiveRecord:Base
+end
+
+Foreign Key
+one too many
+
+many too many
+
+link table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+TEST
+red green refactor
+acceptance test: test of entire system
+unit test:  test a single item, highly specific, only test outer edges
+intergration test: 
+functional test: testing controllers, rails
+
+assignment: pair programming
+
+chat client
+one object server
+clients repl
+asks for name
+type any message
+message broadcast to server
+broadcase to all clients
+all messsages should have curse words escaped
+no one finishes w/out tests.
+
+
+
